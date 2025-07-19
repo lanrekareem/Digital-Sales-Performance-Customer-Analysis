@@ -56,7 +56,8 @@ TOOLS FOR ANALYSIS
 Power BI
 
 DASHBOARD
-![image alt]
+
+![image alt](https://github.com/lanrekareem/Digital-Sales-Performance-Customer-Analysis/blob/main/Digital%20sales%20performance.png?raw=true)
 
 Key Insights
 
